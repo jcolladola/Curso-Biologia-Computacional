@@ -1,6 +1,0 @@
-2026-03-27 21:34:10	-	adoring_poincare	-	053191e7cd3d4eba3f41bbfbc8540b40	224b1ab2-6d18-4b1f-a1a0-16bd41545206	nextflow run main.nf
-2026-03-27 21:34:44	2.2s	stoic_mccarthy	ERR	053191e7cd3d4eba3f41bbfbc8540b40	cdf9c16e-9773-45e9-addf-126e59e7953b	nextflow run main.nf --sam /data/classes/csic_bioinf01/users/bcbinf_colladoj/dia9/nf/2-Align/WT.sam
-2026-03-27 21:35:49	2.2s	insane_pare	ERR	9953bd46a16fe2d1a282641b204b8ec7	1f594f20-426b-46d4-bcb4-e2d8797ae52e	nextflow run main.nf --sam /data/classes/csic_bioinf01/users/bcbinf_colladoj/dia9/nf/2-Align/WT.sam
-2026-03-27 21:37:22	36.4s	sharp_almeida	OK	01db2b8d0ab78fe6aaf9f8349702d7d3	5e1d83d4-0402-48c3-b9c6-ec73f4e77c80	nextflow run main.nf --sam /data/classes/csic_bioinf01/users/bcbinf_colladoj/dia9/nf/2-Align/WT.sam
-2026-03-27 21:40:13	37.2s	loquacious_rosalind	OK	f26fb2cf3b0146948dab74367bc9b29f	bd9e529a-be84-4e9c-a0ac-e29b21d77469	nextflow run main.nf --sam /data/classes/csic_bioinf01/users/bcbinf_colladoj/dia9/nf/2-Align/WT.sam
-2026-03-27 21:42:58	37.2s	pedantic_blackwell	OK	66a85b928caed7e437df20012ef61973	c4a80fe8-c006-4c01-8cf4-00db8ca87f7a	nextflow run main.nf --sam /data/classes/csic_bioinf01/users/bcbinf_colladoj/dia9/nf/2-Align/WT.sam
